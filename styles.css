@@ -1,0 +1,31 @@
+h1 {
+    font-family: 'Zilla Slab', serif;
+    color: #f2777a;
+}
+
+h2 {
+    font-family: 'Zilla Slab', serif;
+    color: #4aa9ad;
+}
+
+h3 {
+    font-family: 'Zilla Slab', serif;
+}
+
+h4 {
+    font-family: 'Zilla Slab', serif;
+    color: #F08440;
+}
+
+h5 {
+    font-family: 'Zilla Slab', serif;
+    color: #219B97;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+}
+
+a {
+    font-family: 'Nunito', sans-serif;
+}
